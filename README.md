@@ -1,10 +1,10 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=youxox&show_icons=true&theme=radical&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=youxox&show_icons=true&theme=transparent&hide_title=true" />
 
 - 👋 **Hello, I am youxox!**
 - 🧑‍🎓 **一名菜鸟专科生**
 - 💻 **网络安全爱好者 电子音乐发烧友**
 - ✅ **使用的编程语言**:</br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐍 Python</br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📒 JavaScript
-- 🧾 **安全研究方向**: <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxox&theme=radical" /></br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥️ web security</br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☁️Cloud security
+- 🧾 **安全研究方向**: <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxox&theme=transparent" /></br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥️ web security</br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☁️Cloud security
 - 🎧 **喜欢的音乐风格**: </br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;😈Deep/House</br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👾EDM</br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👻Synthwave</br>
 - 🧊 **专注于EduSRC 偶尔也会打一些CTF**
 - ⚡ **目前还在不断努力学习中**💪
