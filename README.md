@@ -7,7 +7,7 @@
 - 🧾 **安全研究方向**: </br> &nbsp;&nbsp;&nbsp;|__🖥️ web security</br> &nbsp;&nbsp;&nbsp;|__☁️ Cloud security
 - 🎧 **喜欢的音乐风格**: <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youxox&theme=radical" /></br> &nbsp;&nbsp;&nbsp;|__😈Deep/House</br> &nbsp;&nbsp;&nbsp;|__👾EDM</br> &nbsp;&nbsp;&nbsp;|__👻Synthwave</br>
 - ⚡ **目前还在不断努力学习中**💪
-- **会不定期更新一些工具或者一些有意思内容或技巧 感谢你们的Start和支持**</br>
+- **会不定期更新一些工具或者一些有意思内容或技巧 感谢你们的Start😘**</br>
 
 <!---
 youxox/youxox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
